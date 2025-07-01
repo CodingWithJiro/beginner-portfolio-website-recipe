@@ -11,6 +11,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c4939dcc-7129-4ef2-ba83-743374308d17/deploy-status)](https://mac-and-cheese-recipe-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%201-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.beginner-portfolio-website-recipe&left_text=repo%20views)
 
 ## ℹ️ A Basic Recipe Website Using Only HTML
 
